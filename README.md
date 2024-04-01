@@ -1,8 +1,8 @@
 # Digital-Image-Preprocessing-Rice-Image-Classification
 
 **Dataset**: [Source](https://drive.google.com/drive/folders/1SnKv-dz7SozemckpMjI37PCkt-gxP8FJ?usp=sharing) <br>
-**Notebook**: [View](https://drive.google.com/drive/folders/1SnKv-dz7SozemckpMjI37PCkt-gxP8FJ?usp=sharing) <br>
-**Presentation Deck**: [View](https://drive.google.com/drive/folders/1SnKv-dz7SozemckpMjI37PCkt-gxP8FJ?usp=sharing)
+**Notebook**: [View](https://github.com/EndowBonapen/Digital-Image-Preprocessing-Rice-Image-Classification/blob/main/Digital%20Image%20Preprocessing-Rice%20Image%20Classification.ipynb) <br>
+**Presentation Deck**: [View](https://drive.google.com/file/d/13KpJpBWPpIEmI5z-qlo0v47j_OhxPx4h/view?usp=sharing)
 
 <br>
 
