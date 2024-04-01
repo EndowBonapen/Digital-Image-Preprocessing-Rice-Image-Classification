@@ -7,10 +7,10 @@
 <br>
 
 **Table of Contents**
-- [Business Understanding](https://github.com/EndowBonapen/Digital-Image-Preprocessing-Rice-Image-Classification/blob/main/README.md#business-understanding)
-- [Workflow](https://drive.google.com/drive/folders/1SnKv-dz7SozemckpMjI37PCkt-gxP8FJ?usp=sharing)
-- [Modeling and Evaluation](https://drive.google.com/drive/folders/1SnKv-dz7SozemckpMjI37PCkt-gxP8FJ?usp=sharing)
-- [Recomendation](https://drive.google.com/drive/folders/1SnKv-dz7SozemckpMjI37PCkt-gxP8FJ?usp=sharing)
+- [Business Understanding](https://github.com/EndowBonapen/Digital-Image-Preprocessing-Rice-Image-Classification/blob/main/README.md#-business-understanding)
+- [Workflow](https://github.com/EndowBonapen/Digital-Image-Preprocessing-Rice-Image-Classification/blob/main/README.md#-workflow)
+- [Modeling and Evaluation](https://github.com/EndowBonapen/Digital-Image-Preprocessing-Rice-Image-Classification/blob/main/README.md#-modeling-and-evaluation)
+- [Recomendation](https://github.com/EndowBonapen/Digital-Image-Preprocessing-Rice-Image-Classification/blob/main/README.md#-recomendation)
 
 <br>
 
